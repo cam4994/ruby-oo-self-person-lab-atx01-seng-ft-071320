@@ -78,6 +78,7 @@ class Person
       @happiness +=1 
       person.happiness +=1 
       self.happiness = @happiness
+      "blah blah sun blah rain"
     else 
       "blah blah blah blah blah"
     end 
